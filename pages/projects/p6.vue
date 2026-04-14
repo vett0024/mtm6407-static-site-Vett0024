@@ -1,0 +1,84 @@
+<script setup>
+definePageMeta({ layout: 'project' })
+useHead({ title: 'EchoLink — Gazel V.R' })
+</script>
+
+<template>
+  <div class="container-sm">
+    <NuxtLink to="/portfolio" class="back-btn">← Back to Portfolio</NuxtLink>
+
+    <span class="eyebrow">Project 06 · UX Research · UI Design · Prototyping</span>
+    <h2 style="margin-bottom:1rem;">EchoLink — Mobile App</h2>
+    <div class="tags">
+      <span class="tag hi">Role: UX Designer &amp; Researcher</span>
+      <span class="tag">Figma</span>
+      <span class="tag">FigJam</span>
+      <span class="tag">UX Research</span>
+      <span class="tag">Prototyping</span>
+    </div>
+
+    <img src="/images/project6-preview.webp" alt="EchoLink app screens" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
+
+    <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
+      EchoLink is an AI-powered silent communication app that lets users communicate through lip reading and gesture recognition — no voice required. Designed as part of a group UX project, EchoLink targets people in loud environments, deaf users, and anyone who needs to communicate discreetly. I contributed to the full UX process from research through high-fidelity prototype.
+    </p>
+
+    <div class="divider"></div>
+
+    <h3 style="margin-bottom:1rem;font-size:16px;color:var(--muted2);font-weight:400;letter-spacing:1px;text-transform:uppercase;">My Role &amp; Contributions</h3>
+    <p style="font-size:14px;line-height:1.9;color:var(--muted2);font-weight:300;">I worked across the full project — participating in the focus group research, contributing to the FigJam ideation board, developing user personas and journey maps, and designing high-fidelity screens in Figma. I also helped build the user flow diagrams and app flow structure that shaped the final prototype.</p>
+
+    <div style="margin-top:2.5rem;">
+      <h3 style="margin-bottom:1rem;font-size:16px;color:var(--muted2);font-weight:400;letter-spacing:1px;text-transform:uppercase;">Design Process</h3>
+      <div class="process-grid">
+        <div class="process-step">
+          <div class="process-step-num">01</div>
+          <div class="process-step-label">Research &amp; Focus Group</div>
+          <p>We ran a focus group to gather real feedback on the concept — asking people about silent communication, trust in AI lip-reading, and gesture usability. Responses shaped our feature priorities.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-step-num">02</div>
+          <div class="process-step-label">Personas &amp; Journey Maps</div>
+          <p>We built three user personas — Sarah (a college student), Carlos (a factory worker), and Jake (a nightlife attendee) — each with full journey maps covering stages, goals, pain points, and emotions.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-step-num">03</div>
+          <div class="process-step-label">App Flow &amp; User Flows</div>
+          <p>We mapped the full app structure and designed three detailed user flows: AI-Powered Lip-Reading Mode, Gesture Messaging, and Custom Gesture Creation — covering every decision point and error state.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-step-num">04</div>
+          <div class="process-step-label">Hi-Fi Prototype</div>
+          <p>The final screens were built in Figma with a dark, tech-forward aesthetic. Key screens include onboarding, permissions, settings, practice mode, and the core messaging interface.</p>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top:2rem;">
+      <div class="process-img-label">FigJam — Research Board, Problem Statement &amp; Ideation</div>
+      <img src="/images/echolink-figjam.webp" alt="FigJam research and ideation board" class="process-full-img" loading="lazy" />
+    </div>
+
+    <div style="margin-top:1.25rem;">
+      <div class="process-img-label">App Flow — Information Architecture</div>
+      <img src="/images/echolink-appflow.webp" alt="EchoLink app flow diagram" class="process-full-img" loading="lazy" />
+    </div>
+
+    <div style="margin-top:1.25rem;">
+      <div class="process-img-label">User Flows — Lip Reading, Gesture Messaging &amp; Custom Gesture Creation</div>
+      <img src="/images/echolink-userflows.webp" alt="EchoLink user flow diagrams" class="process-full-img" loading="lazy" />
+    </div>
+
+    <div style="margin-top:1.25rem;">
+      <div class="process-img-label">User Journey Maps — Sarah, Carlos &amp; Jake</div>
+      <img src="/images/echolink-journeys.webp" alt="User journey maps for three personas" class="process-full-img" loading="lazy" />
+    </div>
+
+    <div style="margin-top:2.5rem;">
+      <h3 style="margin-bottom:1rem;font-size:16px;color:var(--muted2);font-weight:400;letter-spacing:1px;text-transform:uppercase;">Reflection</h3>
+      <div class="reflection-box">
+        EchoLink was the most research-intensive project I've worked on. Having to design for three very different users — a student, a factory worker, and a nightclub attendee — forced me to constantly check my assumptions against real user needs rather than defaulting to what looked good. The focus group feedback was humbling; things I assumed were intuitive weren't. Building out the full user flows also gave me a much clearer picture of how many edge cases a real product has to account for, and how early decisions in the flow cascade into the entire experience.
+      </div>
+    </div>
+  </div>
+</template>

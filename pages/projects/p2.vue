@@ -1,0 +1,66 @@
+<script setup>
+definePageMeta({ layout: 'project' })
+useHead({ title: 'CMS Clothing Store — Gazel V.R' })
+</script>
+
+<template>
+  <div class="container-sm">
+    <NuxtLink to="/portfolio" class="back-btn">← Back to Portfolio</NuxtLink>
+
+    <span class="eyebrow">Project 02 · UI Design · E-Commerce</span>
+    <h2 style="margin-bottom:1rem;">CMS Clothing Store</h2>
+    <div class="tags">
+      <span class="tag hi">Role: UI Designer</span>
+      <span class="tag">Shopify</span>
+      <span class="tag">Branding</span>
+      <span class="tag">E-Commerce UX</span>
+    </div>
+
+    <img src="/images/project2-preview.webp" alt="CMS Clothing Store" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
+
+    <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
+      CMS (Thrifted Vintage) is a clothing e-commerce store I built on Shopify. The focus was on creating a strong brand identity from scratch, including the logo, colour palette, and overall visual direction, so the store would feel premium but still approachable for vintage streetwear shoppers.
+    </p>
+
+    <div class="live-link-banner">
+      <div>
+        <span>View live store</span>
+        <span class="note">Password required: <strong style="color:var(--accent);">Teach-1234</strong></span>
+      </div>
+      <a href="https://cms-apprals.myshopify.com/" target="_blank" class="btn" style="padding:9px 20px;font-size:11px;">Visit Store ↗</a>
+    </div>
+
+    <div class="divider"></div>
+
+    <h3 style="margin-bottom:1rem;font-size:16px;color:var(--muted2);font-weight:400;letter-spacing:1px;text-transform:uppercase;">My Role &amp; Contributions</h3>
+    <p style="font-size:14px;line-height:1.9;color:var(--muted2);font-weight:300;">I took care of the full visual design and brand identity for CMS. That included logo design, colour palette, typography, and customizing the Shopify theme to match. I organized the product layout to make it easy to browse, and made deliberate UI decisions to reflect the aesthetic the target audience would connect with.</p>
+
+    <div style="margin-top:2.5rem;">
+      <h3 style="margin-bottom:1rem;font-size:16px;color:var(--muted2);font-weight:400;letter-spacing:1px;text-transform:uppercase;">Design Process</h3>
+      <div class="process-grid">
+        <div class="process-step">
+          <div class="process-step-num">01</div>
+          <div class="process-step-label">Target Audience</div>
+          <p>The store targets people aged 18 to 30 who are into streetwear and sustainable fashion. I looked at how they shop and what visual styles they respond to, which pointed me toward dark tones, editorial imagery, and minimal clutter.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-step-num">02</div>
+          <div class="process-step-label">Brand Identity</div>
+          <p>The CMS logo uses a red maple motif as a nod to Canadian roots, paired with a dark palette and clean typography. The goal was for the brand to feel established and intentional rather than like a student project.</p>
+        </div>
+        <div class="process-step">
+          <div class="process-step-num">03</div>
+          <div class="process-step-label">Shopify Build</div>
+          <p>I customized a Shopify theme to align with the brand by adjusting layout sections, product grids, navigation, and typography settings across the store.</p>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top:2.5rem;">
+      <h3 style="margin-bottom:1rem;font-size:16px;color:var(--muted2);font-weight:400;letter-spacing:1px;text-transform:uppercase;">Reflection</h3>
+      <div class="reflection-box">
+        This project pushed me to think about design in a commercial context where every visual choice has to support a real business goal. Working within Shopify's system was a useful challenge. It meant working within constraints rather than building from scratch, which is a more realistic version of how design works in teams. I'm proud of the brand identity. If I revisited it, I'd push the photography direction further to make the store feel even more distinct.
+      </div>
+    </div>
+  </div>
+</template>
