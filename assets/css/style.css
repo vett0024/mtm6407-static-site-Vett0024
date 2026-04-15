@@ -736,7 +736,11 @@ footer {
   h2 { font-size: 30px; }
   footer { padding: 1.5rem; }
 }
-/* Nuxt router-link active class */
+
+a {
+  text-decoration: none;
+}
+
 .nav-links a.router-link-active { color: var(--text); }
 .nav-links a { cursor: pointer; }
 
