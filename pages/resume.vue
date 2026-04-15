@@ -4,7 +4,7 @@
       <span class="eyebrow">Professional</span>
       <h2 style="margin-bottom:1.5rem;">Resume</h2>
       <div style="margin-bottom:2rem;">
-        <a href="/gazel-resume.pdf" download="GazelVR-Resume.pdf" class="btn btn-fill" style="font-size:12px;padding:10px 22px;">↓ Download PDF Resume</a>
+        <a href="gazel-resume.pdf" download="GazelVR-Resume.pdf" class="btn btn-fill" style="font-size:12px;padding:10px 22px;">↓ Download PDF Resume</a>
       </div>
 
       <div class="divider" style="margin-top:0;"></div>
