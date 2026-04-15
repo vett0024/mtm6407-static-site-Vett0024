@@ -90,7 +90,7 @@
           </NuxtLink>
 
           <NuxtLink to="/projects/p6" class="work-thumb" title="EchoLink Mobile App">
-            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project5-preview_gvduvj.webp" alt="EchoLink Mobile App preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project6-preview_gp11wj.webp" alt="EchoLink Mobile App preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">06</div>
               <div class="work-thumb-title">Mobile App</div>
