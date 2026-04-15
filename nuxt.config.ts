@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   },
   css: ['~/assets/css/style.css'],
   app: {
-    baseURL: '/mtm6407-static-site-vett0024/',
+    baseURL: '/mtm6407-static-site-Vett0024/',
     head: {
       title: 'Gazel V.R — UX Designer & Front-End Developer',
       meta: [
