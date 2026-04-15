@@ -17,7 +17,7 @@ useHead({ title: 'EchoLink — Gazel V.R' })
       <span class="tag">Prototyping</span>
     </div>
 
-    <img src="/images/project6-preview.webp" alt="EchoLink app screens" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
+    <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project6-preview_gp11wj.webp" alt="EchoLink app screens" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
 
     <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
       EchoLink is an AI-powered silent communication app that lets users communicate through lip reading and gesture recognition — no voice required. Designed as part of a group UX project, EchoLink targets people in loud environments, deaf users, and anyone who needs to communicate discreetly. I contributed to the full UX process from research through high-fidelity prototype.
@@ -56,22 +56,22 @@ useHead({ title: 'EchoLink — Gazel V.R' })
 
     <div style="margin-top:2rem;">
       <div class="process-img-label">FigJam — Research Board, Problem Statement &amp; Ideation</div>
-      <img src="/images/echolink-figjam.webp" alt="FigJam research and ideation board" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220490/echolink-figjam_k5raa7.png" alt="FigJam research and ideation board" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">App Flow — Information Architecture</div>
-      <img src="/images/echolink-appflow.webp" alt="EchoLink app flow diagram" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220063/echolink-appflow_hjyxyg.webp" alt="EchoLink app flow diagram" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">User Flows — Lip Reading, Gesture Messaging &amp; Custom Gesture Creation</div>
-      <img src="/images/echolink-userflows.webp" alt="EchoLink user flow diagrams" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220490/echolink-userflows_zw9fuf.png" alt="EchoLink user flow diagrams" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">User Journey Maps — Sarah, Carlos &amp; Jake</div>
-      <img src="/images/echolink-journeys.webp" alt="User journey maps for three personas" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220063/echolink-journeys_ayycmx.webp" alt="User journey maps for three personas" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:2.5rem;">

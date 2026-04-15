@@ -45,7 +45,7 @@
 
         <div class="work-teaser-grid">
           <NuxtLink to="/projects/p1" class="work-thumb" title="Personal Website">
-            <img src="/images/project1-preview.webp" alt="Personal Website project preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220065/project1-preview_sawipp.webp" alt="Personal Website project preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">01</div>
               <div class="work-thumb-title">Personal Website</div>
@@ -54,7 +54,7 @@
           </NuxtLink>
 
           <NuxtLink to="/projects/p2" class="work-thumb" title="CMS Clothing Store">
-            <img src="/images/project2-preview.webp" alt="CMS Clothing Store project preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project2-preview_mitygp.webp" alt="CMS Clothing Store project preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">02</div>
               <div class="work-thumb-title">Clothing Store</div>
@@ -63,7 +63,7 @@
           </NuxtLink>
 
           <NuxtLink to="/projects/p3" class="work-thumb" title="Travel Website">
-            <img src="/images/project3-preview.webp" alt="Discover Cancún project preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project3-preview_ojm3ds.webp" alt="Discover Cancún project preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">03</div>
               <div class="work-thumb-title">Travel Website</div>
@@ -72,7 +72,7 @@
           </NuxtLink>
 
           <NuxtLink to="/projects/p4" class="work-thumb" title="Baited by the Odds">
-            <img src="/images/baited-preview.webp" alt="Baited by the Odds campaign poster preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220063/baited-preview_byt0bg.webp" alt="Baited by the Odds campaign poster preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">04</div>
               <div class="work-thumb-title">Awareness Campaign</div>
@@ -81,7 +81,7 @@
           </NuxtLink>
 
           <NuxtLink to="/projects/p5" class="work-thumb" title="Photography Portfolio">
-            <img src="/images/project5-preview.webp" alt="Photography Portfolio preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project5-preview_gvduvj.webp" alt="Photography Portfolio preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">05</div>
               <div class="work-thumb-title">Photography</div>
@@ -90,7 +90,7 @@
           </NuxtLink>
 
           <NuxtLink to="/projects/p6" class="work-thumb" title="EchoLink Mobile App">
-            <img src="/images/project6-preview.webp" alt="EchoLink Mobile App preview" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project5-preview_gvduvj.webp" alt="EchoLink Mobile App preview" loading="lazy" />
             <div class="work-thumb-overlay">
               <div class="work-thumb-num">06</div>
               <div class="work-thumb-title">Mobile App</div>

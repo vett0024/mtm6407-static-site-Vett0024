@@ -17,7 +17,7 @@ useHead({ title: 'Baited by the Odds — Gazel V.R' })
       <span class="tag">FigJam</span>
     </div>
 
-    <img src="/images/baited-preview.webp" alt="Baited by the Odds campaign poster" class="proj-hero-img" style="margin-top:2rem;aspect-ratio:auto;object-fit:contain;object-position:center;background:transparent;" loading="lazy" />
+    <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220063/baited-preview_byt0bg.webp" alt="Baited by the Odds campaign poster" class="proj-hero-img" style="margin-top:2rem;aspect-ratio:auto;object-fit:contain;object-position:center;background:transparent;" loading="lazy" />
 
     <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
       Baited by the Odds is a gambling awareness campaign developed in collaboration with Ottawa Public Health as part of the MTM6600 Applied Project. Our team designed a system of campaign assets — including a digital poster and 15-second motion graphic — to help athletes and coaches recognize the risks of problem gambling in sport culture.
@@ -51,27 +51,27 @@ useHead({ title: 'Baited by the Odds — Gazel V.R' })
 
     <div style="margin-top:2rem;">
       <div class="process-img-label">Empathy Map — Understanding the Athlete &amp; Coach</div>
-      <img src="/images/empathy-map.webp" alt="Empathy map for the Baited by the Odds campaign" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220063/empathy-map_yywayk.webp" alt="Empathy map for the Baited by the Odds campaign" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">Iceberg Model — Mapping Systemic Causes of Gambling in Sport</div>
-      <img src="/images/iceberg-model.webp" alt="Iceberg model research board" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220064/iceberg-model_oaeaob.webp" alt="Iceberg model research board" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">Ideation Sprint — Four Categories of Campaign Concepts</div>
-      <img src="/images/ideation-board.webp" alt="Ideation whiteboard with campaign concepts" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220065/ideation-board_w5iika.webp" alt="Ideation whiteboard with campaign concepts" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">Sketch Iterations — Poster Layout &amp; Messaging Exploration</div>
-      <img src="/images/sketch-iterations.webp" alt="Poster sketches and iterations" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776221708/sketch-iterations_atrngc.png" alt="Poster sketches and iterations" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:1.25rem;">
       <div class="process-img-label">High-Fidelity Refinements — Final Poster Direction</div>
-      <img src="/images/hifi-refinements.webp" alt="High fidelity poster refinements on virtual whiteboard" class="process-full-img" loading="lazy" />
+      <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220064/hifi-refinements_qzmk0r.webp" alt="High fidelity poster refinements on virtual whiteboard" class="process-full-img" loading="lazy" />
     </div>
 
     <div style="margin-top:2.5rem;">

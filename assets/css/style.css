@@ -327,7 +327,11 @@ footer {
   overflow: hidden;
   cursor: pointer;
   background: var(--card);
+  border: 1px solid var(--border2);
+  border-radius: 8px;
+  overflow: hidden;
 }
+
 
 .work-thumb img {
   width: 100%;
@@ -712,6 +716,11 @@ footer {
   color: var(--muted);
   font-family: var(--font-body);
   margin-bottom: 0.4rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 @media (max-width: 768px) {

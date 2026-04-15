@@ -8,7 +8,7 @@
       <div class="grid-3">
         <NuxtLink to="/projects/p1" class="proj-card">
           <div class="proj-thumb">
-            <img src="/images/project1-preview.webp" alt="Personal Website Screenshot" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220065/project1-preview_sawipp.webp" alt="Personal Website Screenshot" loading="lazy" />
             <div class="proj-thumb-overlay"></div>
           </div>
           <div class="proj-body">
@@ -23,7 +23,7 @@
 
         <NuxtLink to="/projects/p2" class="proj-card">
           <div class="proj-thumb">
-            <img src="/images/project2-preview.webp" alt="CMS Clothing Store Screenshot" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project2-preview_mitygp.webp" alt="CMS Clothing Store Screenshot" loading="lazy" />
             <div class="proj-thumb-overlay"></div>
           </div>
           <div class="proj-body">
@@ -38,7 +38,7 @@
 
         <NuxtLink to="/projects/p3" class="proj-card">
           <div class="proj-thumb">
-            <img src="/images/project3-preview.webp" alt="Discover Cancún Travel Website Screenshot" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project3-preview_ojm3ds.webp" alt="Discover Cancún Travel Website Screenshot" loading="lazy" />
             <div class="proj-thumb-overlay"></div>
           </div>
           <div class="proj-body">
@@ -53,7 +53,7 @@
 
         <NuxtLink to="/projects/p4" class="proj-card">
           <div class="proj-thumb">
-            <img src="/images/baited-preview.webp" alt="Baited by the Odds campaign poster" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220063/baited-preview_byt0bg.webp" alt="Baited by the Odds campaign poster" loading="lazy" />
             <div class="proj-thumb-overlay"></div>
           </div>
           <div class="proj-body">
@@ -68,7 +68,7 @@
 
         <NuxtLink to="/projects/p5" class="proj-card">
           <div class="proj-thumb">
-            <img src="/images/project5-preview.webp" alt="Photography Portfolio Preview" style="filter:brightness(0.75) saturate(0.85);" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project5-preview_gvduvj.webp" alt="Photography Portfolio Preview" style="filter:brightness(0.75) saturate(0.85);" loading="lazy" />
             <div class="proj-thumb-overlay"></div>
           </div>
           <div class="proj-body">
@@ -83,7 +83,7 @@
 
         <NuxtLink to="/projects/p6" class="proj-card">
           <div class="proj-thumb">
-            <img src="/images/project6-preview.webp" alt="EchoLink Mobile App" loading="lazy" />
+            <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project6-preview_gp11wj.webp" alt="EchoLink Mobile App" loading="lazy" />
             <div class="proj-thumb-overlay"></div>
           </div>
           <div class="proj-body">

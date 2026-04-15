@@ -17,7 +17,7 @@ useHead({ title: 'Discover Cancún — Gazel V.R' })
       <span class="tag">UX Research</span>
     </div>
 
-    <img src="/images/project3-preview.webp" alt="Discover Cancún Travel Website" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
+    <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project3-preview_ojm3ds.webp" alt="Discover Cancún Travel Website" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
 
     <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
       Discover Cancún is a travel website I designed and built to inspire people to visit the destination. I created a custom WordPress theme from scratch and deployed it to a live server using SSH through FileZilla. The site includes a vibrant brand identity, an immersive hero section, a search function, and a gallery of destination content.

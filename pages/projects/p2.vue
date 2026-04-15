@@ -16,7 +16,7 @@ useHead({ title: 'CMS Clothing Store — Gazel V.R' })
       <span class="tag">E-Commerce UX</span>
     </div>
 
-    <img src="/images/project2-preview.webp" alt="CMS Clothing Store" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
+    <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220066/project2-preview_mitygp.webp" alt="CMS Clothing Store" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
 
     <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
       CMS (Thrifted Vintage) is a clothing e-commerce store I built on Shopify. The focus was on creating a strong brand identity from scratch, including the logo, colour palette, and overall visual direction, so the store would feel premium but still approachable for vintage streetwear shoppers.

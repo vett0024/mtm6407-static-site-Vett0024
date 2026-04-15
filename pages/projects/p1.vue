@@ -16,7 +16,7 @@ useHead({ title: 'Personal Website — Gazel V.R' })
       <span class="tag">Figma</span>
     </div>
 
-    <img src="/images/p1-mockup.webp" alt="Personal Website shown on laptop mockup" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
+    <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220065/p1-mockup_wdsk7d.webp" alt="Personal Website shown on laptop mockup" class="proj-hero-img" style="margin-top:2rem;" loading="lazy" />
 
     <p style="font-size:15px;line-height:1.9;color:var(--muted2);font-weight:300;">
       This is a personal portfolio site I designed and built completely from scratch. I wanted something that felt clean and professional but still reflected my own style. Everything from the layout to the code was made by me, with no templates or frameworks.
@@ -57,12 +57,12 @@ useHead({ title: 'Personal Website — Gazel V.R' })
 
       <div style="margin-top:1.5rem;">
         <div class="process-img-label">Figma — Lo-fi Wireframes</div>
-        <img src="/images/p1-figma-wires.webp" alt="Figma wireframe workspace" class="process-full-img" loading="lazy" />
+        <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220065/p1-figma-wires_w5znid.webp" alt="Figma wireframe workspace" class="process-full-img" loading="lazy" />
       </div>
 
       <div style="margin-top:1.25rem;">
         <div class="process-img-label">Figma — Interactive Prototype Flows</div>
-        <img src="/images/p1-figma-proto.webp" alt="Figma prototype flow" class="process-full-img" loading="lazy" />
+        <img src="https://res.cloudinary.com/djytlquqa/image/upload/v1776220065/p1-figma-proto_dp5kij.webp" alt="Figma prototype flow" class="process-full-img" loading="lazy" />
       </div>
     </div>
 
